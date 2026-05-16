@@ -1,55 +1,48 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Akshat+Dhanak;Full-Stack+Developer;AI+%26+ML+Engineer;Building+%40+MeetFlow+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Akshat+Dhanak;I+build+things+that+work+on+the+internet;Engineering+student+%40+DDU;Always+learning%2C+always+building" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://github.com/akshatdhanak"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://linkedin.com/in/akshatdhanak"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:akshatdhanak@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-## About Me
+## Hey there 👋
 
-Final-year Computer Engineering student at DDU. I build full-stack applications, train ML models, and turn ideas into deployed products.
+I'm Akshat — a final-year Computer Engineering student at DDU.
 
-Currently building **[MeetFlow AI](https://github.com/fuzzycloud/meetflow-ai)** — an AI-powered meeting intelligence platform that transcribes, summarizes, and generates structured artifacts from meetings.
+I like building things. Websites, apps, tools that actually solve a problem. Right now I'm working on **MeetFlow AI**, a platform that listens to meeting recordings and automatically generates summaries and notes so you don't have to.
 
-## What I Build
+---
 
-I work at the intersection of **product-focused frontend development**, **backend architecture**, and **practical AI integration**.
+## What I'm Working On
 
-### AI & ML
-- Speech-to-text pipelines (OpenAI Whisper, Sarvam AI for Indian languages)
-- LLM-powered artifact generation with structured outputs (Vercel AI SDK + Together AI)
-- Model training and deployment
+| Project | What it does |
+|---------|-------------|
+| **[MeetFlow AI](https://github.com/fuzzycloud/meetflow-ai)** | Upload a meeting recording → it transcribes the audio, understands what was said, and creates a summary + notes + action items automatically. Built with Next.js and Supabase. |
+| More coming soon | Stay tuned 🚀 |
 
-### Full-Stack
-- **Frontend:** React, Next.js, TypeScript, Tailwind CSS
-- **Backend:** Node.js, PostgreSQL, REST APIs, Drizzle ORM
-- **Cloud:** Supabase, Vercel, serverless workflows
+---
 
-## Featured Projects
+## Tech I've Worked With
 
-### [MeetFlow AI](https://github.com/fuzzycloud/meetflow-ai)
-> AI-powered meeting intelligence platform — transcribe, summarize, and generate action items automatically.
->
-> **Stack:** Next.js, TypeScript, Vercel AI SDK, Together AI, Groq, Sarvam AI, Supabase, PostgreSQL, Drizzle ORM
->
-> Built multi-provider STT routing (Groq Whisper for English, Sarvam AI for Indian languages), meeting summary generation, and structured notes extraction with owner/deadline parsing.
+**Languages:** TypeScript, JavaScript, Python, SQL  
+**Frontend:** React, Next.js, Tailwind CSS  
+**Backend & DB:** Node.js, PostgreSQL, Supabase  
+**AI Stuff:** Prompt engineering, working with LLMs, speech-to-text  
+**Tools:** Git, GitHub, VS Code, Vercel  
 
-## GitHub Analytics
+---
+
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshatdhanak&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatdhanak&layout=compact&theme=github_dark&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshatdhanak&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akshatdhanak&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatdhanak&layout=compact&theme=github_dark&hide_border=true" height="150"/>
 </p>
 
 ---
 
-*"Turn ideas into deployed products."*
+*Building stuff, one commit at a time.*
